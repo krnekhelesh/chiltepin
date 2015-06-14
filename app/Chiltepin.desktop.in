@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Chiltepin
+_Comment=Grocery App for Ubuntu Touch
+Keywords=grocery;food;list;recipe;
+Exec=@EXEC@
+Icon=@ICON@
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
+
+

@@ -1,0 +1,17 @@
+{
+    "name": "@APP_ID@",
+    "description": "description of Chiltepin",
+    "architecture": "@CLICK_ARCH@",
+    "title": "@APP_NAME@",
+    "hooks": {
+        "Chiltepin": {
+            "apparmor": "Chiltepin.apparmor",
+            "desktop":  "Chiltepin.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nekhelesh Ramananthan <nik90@ubuntu.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
